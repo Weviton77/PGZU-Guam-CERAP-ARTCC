@@ -1,0 +1,79 @@
+# Standard Operating Procedures
+
+# {.tabset}
+
+## DEL
+
+#### IFR
+
+**IFR  Example**  
+Cleared to Saipan Intl airport via radar vectors (fix),, then as filed. Maintain 5000, expect FL150 10 minutes after departure. Departure frequency 119.8, squawk 1234.
+
+**IFR squawk code assignment:**  
+via Aurora
+
+#### Pre-Departure Clearance
+[PDC](/pdc) via CPDLC is not available at this airport.
+
+#### VFR
+
+Guam International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+**VFR Deaprture:**  
+Westbound departure approved, maintain VFR at or below 2500 until further advised. Departure frequency 122.8. Squawk 0301.
+
+**VFR Local Pattern Example:**  
+Pattern altitude 2500, expect right closed traffic runway 24R, squawk 0301.
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## GND
+
+![kmcognd.png](https://imgur.com/a/4f95HH8.png){.align-center}
+
+![kmcognd.png](https://imgur.com/a/ARGqBmq.png){.align-center}
+
+#### Transponder
+
+Guam International Airport is not facilitated ground radar. Pilots are not required to operate transponders on mode ‘active’.
+
+## TWR
+
+### Airspace
+
+Guam International airport is surrounded by class C airspace. Aircraft entering class C airspace VFR require a clearance in accordance 
+with [7110.65 Chapter 7, section 9-2](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html).
+
+### Area of Responsibility
+
+-   TWR owns all **active** RWY’s.
+-   TWR owns all taxiways between runways 24R/06L  24R/06R  
+-   The ceiling is **2500ft MSL** within a 8nm radius around the airport.
+
+![](https://imgur.com/a/d8RYgjI.png){.align-center}
+
+### VFR
+
+**VFR Local Pattern Example:** 
+Join left downwind runway 24L, report midfield with intentions.
+
+**VFR Transition:**  
+Entering:
+- Proceed eastbound, maintain VFR at 2500 while in the charlie.
+
+**VFR Exiting Tower airspace:**  
+- You are leaving my airspace, squawk VFR, frequency change approved.
+- You are leaving my airspace, contact Guam approach on 119.800
+
+**VFR squawk code assignment:**  
+via Aurora
+
+## APP
+
+#### Airspace
+
+Guam TRACON is responsible for all airports and airspace from surface up to 10000ft as depicted.
+
+![](https://imgur.com/a/6ENxmjm.png){.align-center}
